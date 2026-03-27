@@ -1,0 +1,11 @@
+{
+  "id": "langfuse-tracer",
+  "name": "Langfuse Tracer",
+  "description": "Sends OpenClaw agent traces, LLM generations, and tool spans to Langfuse for full observability. No npm packages required — uses the Langfuse REST API directly via native fetch.",
+  "version": "6.0.0",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
